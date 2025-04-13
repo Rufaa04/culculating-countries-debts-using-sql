@@ -1,5 +1,5 @@
 ## summarry reports of the project 
-# total amount of debts in all countries is 2357 debts
+# total amount of debts in all countries is 3089378312192
 # we have 124 distinct countries in the dataset
 # the distinct types of indicator inldude
       DT.INT.PRVT.CD
